@@ -36,6 +36,8 @@ Publish the website in the given URL.
 
 
 ## OUTPUT:
+![Ex 06](https://user-images.githubusercontent.com/118668751/214825475-13abc428-2b09-412c-a02b-e973ec5a835d.png)
+
 # Code:
 ## HTML:
 ```
